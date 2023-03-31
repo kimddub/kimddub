@@ -1,4 +1,9 @@
+<!-- Banner -->
 ![header](https://capsule-render.vercel.app/api?type=waving&animation=fadeIn&color=auto&customColorList=27&height=200&section=header&text=Subin%20Kim&fontColor=ffffff&fontSize=40&fontAlign=60&fontAlignY=35&desc=Hello,World%20I'm&ddescSize=20&descAlign=37&descAlignY=35)
+
+
+<!-- Stack -->
+<h1 align="center">⭐ Stack</h3>
 
 <h3 align="center">Front-End Stack</h3>
 
@@ -31,3 +36,30 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Nintendo Switch-E60012?style=flat-square&logo=nintendoswitch&logoColor=white"></a>  
 </p>
+
+
+<!-- Stat -->
+<br><br>
+<h1 align="center">📊 Stat</h3>
+<h3 align="center">My Most Used Languages</h3>
+<p align="center">
+  <a href="https://github.com/kimddub">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimddub&layout=compact&show_icons=true&show_owner=true&hide_title=false&theme=nord&hide"/>
+  </a>
+</p>
+<h3 align="center">My Git Stats</h3>
+<p align="center">
+  <a href="https://github.com/kimddub">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=kimddub&hide=&hide_title=false&show_icons=true&include_all_commits=false&theme=nord" />
+  </a>
+</p>
+
+
+<!-- GitBlog -->
+<br><br>
+<h1 align="center">🐶 Portfolio</h3>
+<div align="center" style="text-align:center">
+   
+  [Kimddub GitBlog](https://kimddub.github.io)
+   
+</div>
